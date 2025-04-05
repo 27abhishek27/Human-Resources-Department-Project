@@ -1,7 +1,3 @@
-Great! Based on your [Human Resources Department Project](https://github.com/27abhishek27/Human-Resources-Department-Project), here's a tailored `README.md`:
-
----
-
 # Human Resources Department Project
 
 ## 📌 Overview
